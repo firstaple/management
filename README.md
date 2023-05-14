@@ -5,3 +5,11 @@
 - npm : npx create-react-app . --template typescript --use-npm
 
 - yarn : yarn create react-app . --template typescript
+
+# Lab 2 : Running Your Project
+
+## Run the project
+
+- npm : npm start
+
+- yarn : yarn start
