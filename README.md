@@ -21,3 +21,7 @@
 - npm : npm install mini.css@3.0.1
 
 - yarn : yarn install mini.css@3.0.1
+
+## Import the stylesheet you installed
+
+# Lab 4 : Your First Component
