@@ -25,3 +25,9 @@
 ## Import the stylesheet you installed
 
 # Lab 4 : Your First Component
+
+# Lab 5 : Data
+
+## Data의 구조를 TypeScript로 정의
+
+- Data에 맞는 타입을 설정
