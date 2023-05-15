@@ -13,3 +13,11 @@
 - npm : npm start
 
 - yarn : yarn start
+
+# Lab 3 : Styles Using CSS
+
+## Install CSS
+
+- npm : npm install mini.css@3.0.1
+
+- yarn : yarn install mini.css@3.0.1
